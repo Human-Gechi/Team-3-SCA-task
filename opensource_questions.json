@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "question": "What does 'open' in open source mean?",
+      "answer": "It means anyone can look at and use the code."
+    },
+    {
+      "question": "Who writes open-source software?",
+      "answer": "People all over the world alone or in teams."
+    },
+    {
+      "question": "Can students use open source?",
+      "answer": "Yes, freely."
+    },
+    {
+      "question": "Can you change open-source software?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Can you copy open-source software?",
+      "answer": "Yes, if you follow the rules."
+    },
+    {
+      "question": "Is open source always safe?",
+      "answer": "Not always  it should be reviewed first."
+    },
+    {
+      "question": "Is open-source software legal?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Is open-source software always free of cost?",
+      "answer": "Most times, yes."
+    },
+    {
+      "question": "Can you use open source without internet?",
+      "answer": "Yes, after downloading it."
+    },
+    {
+      "question": "What is a popular open-source phone system?",
+      "answer": "Android."
+    },
+    {
+      "question": "What is closed-source software?",
+      "answer": "Software you cant see or change the code."
+    },
+    {
+      "question": "Is Windows open source?",
+      "answer": "No."
+    },
+    {
+      "question": "Is Linux closed source?",
+      "answer": "No, it's open source."
+    },
+    {
+      "question": "Is Adobe Photoshop open source?",
+      "answer": "No."
+    },
+    {
+      "question": "Is GIMP open source?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Is TikTok open source?",
+      "answer": "No."
+    },
+    {
+      "question": "Is YouTube open source?",
+      "answer": "No, but you can use open-source tools to download videos."
+    },
+    {
+      "question": "Is Python open source?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Is Java open source?",
+      "answer": "Mostly yes, especially OpenJDK."
+    },
+    {
+      "question": "Is HTML open source?",
+      "answer": "Yes, its a standard language."
+    },
+    {
+      "question": "Can open source help you learn programming?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Can you build your own app with open source?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Can open-source software be used at work?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Can teachers use open-source software in class?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Can open source be used in government?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Whats an example of open-source learning tool?",
+      "answer": "Moodle."
+    },
+    {
+      "question": "Is Scratch open source?",
+      "answer": "Partially  the code is available."
+    },
+    {
+      "question": "Whats a simple open-source browser?",
+      "answer": "Mozilla Firefox."
+    },
+    {
+      "question": "Is DuckDuckGo open source?",
+      "answer": "Parts of it are."
+    },
+    {
+      "question": "Can open source be used for games?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Can you make your own open-source software?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Where can you share open-source code?",
+      "answer": "GitHub."
+    },
+    {
+      "question": "What is a 'fork' in open source?",
+      "answer": "Making your own copy of a project."
+    },
+    {
+      "question": "What is a 'commit' in Git?",
+      "answer": "Saving a change to code."
+    },
+    {
+      "question": "What is 'merge'?",
+      "answer": "Joining code from two sources."
+    },
+    {
+      "question": "What is a 'repository'?",
+      "answer": "A folder that stores code."
+    },
+    {
+      "question": "What is a 'pull request'?",
+      "answer": "Asking to add your changes to a project."
+    },
+    {
+      "question": "What is a 'README' file?",
+      "answer": "A file that explains what a project does."
+    },
+    {
+      "question": "What is open-source documentation?",
+      "answer": "Notes that explain how to use the code."
+    },
+    {
+      "question": "Why are comments in code useful?",
+      "answer": "They help people understand the code."
+    },
+    {
+      "question": "Should you credit original authors?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Should you read the license first?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Should you test open-source code?",
+      "answer": "Yes, before using."
+    },
+    {
+      "question": "Is reporting bugs helpful?",
+      "answer": "Yes, very helpful."
+    },
+    {
+      "question": "Can you help without writing code?",
+      "answer": "Yes  translate, test, or write guides."
+    },
+    {
+      "question": "Can you ask for help in open source?",
+      "answer": "Yes, usually in forums or GitHub."
+    },
+    {
+      "question": "What is an issue tracker?",
+      "answer": "A place to report bugs or suggest features."
+    },
+    {
+      "question": "Whats a code contributor?",
+      "answer": "Someone who adds to the project."
+    },
+    {
+      "question": "Whats a maintainer?",
+      "answer": "A person who manages the project."
+    },
+    {
+      "question": "Can open-source projects grow big?",
+      "answer": "Yes  like Linux or WordPress."
+    }
+  ]
+}
