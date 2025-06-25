@@ -1,204 +1,51 @@
 {
-  "questions": [
-    {
-      "question": "What does 'open' in open source mean?",
-      "answer": "It means anyone can look at and use the code."
-    },
-    {
-      "question": "Who writes open-source software?",
-      "answer": "People all over the world alone or in teams."
-    },
-    {
-      "question": "Can students use open source?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Can you change open-source software?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Can you copy open-source software?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Is open source always safe?",
-      "answer": "No."
-    },
-    {
-      "question": "Is open-source software legal?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Is open-source software always free of cost?",
-      "answer": "Most times."
-    },
-    {
-      "question": "Can you use open source without internet?",
-      "answer": "Yes."
-    },
-    {
-      "question": "What is a popular open-source phone system?",
-      "answer": "Android."
-    },
-    {
-      "question": "What is closed-source software?",
-      "answer": "Software you cant see or change the code."
-    },
-    {
-      "question": "Is Windows open source?",
-      "answer": "No."
-    },
-    {
-      "question": "Is Linux closed source?",
-      "answer": "No, it's open source."
-    },
-    {
-      "question": "Is Adobe Photoshop open source?",
-      "answer": "No."
-    },
-    {
-      "question": "Is GIMP open source?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Is TikTok open source?",
-      "answer": "No."
-    },
-    {
-      "question": "Is YouTube open source?",
-      "answer": "No."
-    },
-    {
-      "question": "Is Python open source?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Is Java open source?",
-      "answer": "Mostly yes, especially OpenJDK."
-    },
-    {
-      "question": "Is HTML open source?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Can open source help you learn programming?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Can you build your own app with open source?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Can open-source software be used at work?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Can teachers use open-source software in class?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Can open source be used in government?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Whats an example of open-source learning tool?",
-      "answer": "Moodle."
-    },
-    {
-      "question": "Is Scratch open source?",
-      "answer": "Partially  the code is available."
-    },
-    {
-      "question": "Whats a simple open-source browser?",
-      "answer": "Mozilla Firefox."
-    },
-    {
-      "question": "Is DuckDuckGo open source?",
-      "answer": "Parts of it are."
-    },
-    {
-      "question": "Can open source be used for games?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Can you make your own open-source software?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Where can you share open-source code?",
-      "answer": "GitHub."
-    },
-    {
-      "question": "What is a 'fork' in open source?",
-      "answer": "Making your own copy of a project."
-    },
-    {
-      "question": "What is a 'commit' in Git?",
-      "answer": "Saving a change to code."
-    },
-    {
-      "question": "What is 'merge'?",
-      "answer": "Joining code from two sources."
-    },
-    {
-      "question": "What is a 'repository'?",
-      "answer": "A folder that stores code."
-    },
-    {
-      "question": "What is a 'pull request'?",
-      "answer": "Asking to add your changes to a project."
-    },
-    {
-      "question": "What is a 'README' file?",
-      "answer": "A file that explains what a project does."
-    },
-    {
-      "question": "What is open-source documentation?",
-      "answer": "Notes that explain how to use the code."
-    },
-    {
-      "question": "Why are comments in code useful?",
-      "answer": "They help people understand code."
-    },
-    {
-      "question": "Should you credit original authors?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Should you read the license first?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Should you test open-source code?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Is reporting bugs helpful?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Can you help without writing code?",
-      "answer": "Yes."
-    },
-    {
-      "question": "Can you ask for help in open source?",
-      "answer": "Yes."
-    },
-    {
-      "question": "What is an issue tracker?",
-      "answer": "A place to report bugs or suggest features."
-    },
-    {
-      "question": "Whats a code contributor?",
-      "answer": "Someone who adds to the project."
-    },
-    {
-      "question": "Whats a maintainer?",
-      "answer": "A person who manages the project."
-    },
-    {
-      "question": "Can open-source projects grow big?",
-      "answer": "Yes."
-    }
-  ]
+  "questions":[
+  {"question": "Is Linux an open-source operating system?", "answer": "yes"},
+  {"question": "Is Microsoft Word open source?", "answer": "no"},
+  {"question": "Can anyone contribute to open-source projects?", "answer": "yes"},
+  {"question": "Is all open-source software free of cost?", "answer": "no"},
+  {"question": "Is Android based on open-source software?", "answer": "yes"},
+  {"question": "Is the source code of open-source software hidden?", "answer": "no"},
+  {"question": "Can you modify open-source software?", "answer": "yes"},
+  {"question": "Is Apple iOS open source?", "answer": "no"},
+  {"question": "Can open-source software be used in businesses?", "answer": "Yes"},
+  {"question": "Is GIMP an open-source image editor?", "answer": "Yes"},
+  {"question": "Is Adobe Photoshop open source?", "answer": "no"},
+  {"question": "Can you sell open-source software?", "answer": "yes"},
+  {"question": "Is Mozilla Firefox open source?", "answer": "yes"},
+  {"question": "Is Windows 10 open source?", "answer": "no"},
+  {"question": "Can open-source licenses restrict usage?", "answer": "yes"},
+  {"question": "Is the Python programming language open source?", "answer": "yes"},
+  {"question": "Is TikTok open source?", "answer": "no"},
+  {"question": "Can you use open-source software for commercial purposes?", "answer": "yes"},
+  {"question": "Is the Apache web server open source?", "answer": "yes"},
+  {"question": "Is Google Chrome fully open source?", "answer": "no"},
+  {"question": "Is OpenOffice open source?", "answer": "yes"},
+  {"question": "Is Notepad++ open source?", "answer": "yes"},
+  {"question": "Is VLC Media Player open source?", "answer": "yes"},
+  {"question": "Is Skype open source?", "answer": "no"},
+  {"question": "Is GitHub itself open source?", "answer": "no"},
+  {"question": "Is Git open source?", "answer": "yes"},
+  {"question": "Is Blender open source?", "answer": "yes"},
+  {"question": "Is Zoom open source?", "answer": "no"},
+  {"question": "Is LibreOffice open source?", "answer": "yes"},
+  {"question": "Is Facebook open source?", "answer": "no"},
+  {"question": "Is WordPress open source?", "answer": "yes"},
+  {"question": "Is MySQL open source?", "answer": "yes"},
+  {"question": "Is Oracle Database open source?", "answer": "no"},
+  {"question": "Is Ubuntu an open-source operating system?", "answer": "yes"},
+  {"question": "Is Steam open source?", "answer": "no"},
+  {"question": "Is Audacity open source?", "answer": "yes"},
+  {"question": "Is Slack open source?", "answer": "no"},
+  {"question": "Is Inkscape open source?", "answer": "yes"},
+  {"question": "Is Google Docs open source?", "answer": "no"},
+  {"question": "Is FileZilla open source?", "answer": "yes"},
+  {"question": "Is Android Studio open source?", "answer": "yes"},
+  {"question": "Is Safari browser open source?", "answer": "no"},
+  {"question": "Is the Linux kernel open source?", "answer": "yes"},
+  {"question": "Is the Windows kernel open source?", "answer": "no"},
+  {"question": "Is OpenSSL open source?", "answer": "yes"},
+  {"question": "Is Dropbox open source?", "answer": "no"},
+  {"question": "Is the Apache License an open-source license?", "answer": "yes"},
+  {"question": "Is the MIT License an open-source license?", "answer": "yes"}]
 }
