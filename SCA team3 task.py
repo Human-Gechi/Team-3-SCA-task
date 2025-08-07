@@ -57,11 +57,6 @@ class QuizApp:
         with open("usersprogress.json", "w") as save: # writing the changes to the json file
             json.dump(data, save, indent=3) # wrting  the data in python dictionary format and it is converted to json format using json.dump
 
-    def ask_question(self, question): # function to ask a question
-        print(question['question'])
-        answer = input("Enter your answer: ")
-        return answer, question['answer']
-
     def exitquiz(self): # functio to exit quiz
         if self.current_user:
             print("Progress has been saved.")
