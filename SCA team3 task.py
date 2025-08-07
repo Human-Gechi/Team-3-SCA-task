@@ -83,7 +83,7 @@ class QuizApp:
         except FileNotFoundError:
             print("No leaderboard data found.")
 
-    def startquiz(self):# functio to start the quiz
+    def startquiz(self):# function to start the quiz
         self.load_questions("opensource_questions.json")# loading the json question in the opensource_questions.json file
         if not self.questions: # checking if questions are available
             print("Questions are not available.")
@@ -110,4 +110,18 @@ class QuizApp:
         end_time = time.time() # time after answering questions
         self.time_taken = end_time - start_time # calculating the time taken to complete the quiz
         self.saveuserprogress() # saving users progress after the quiz is completed in the userprogress.json file
-        print(f"Quiz complete! Score: {self.score}, Time: {self.time_taken:.2f}s")
+        print(f"Quiz complete! Score: {self.score}, Time: {self.time_taken.__round__(0)}s")
+def main():
+    while True:
+        quizapp = QuizApp()
+        quizapp.startquiz()
+        quizapp.leaderboard() # displaying the leaderboard after the quiz is completed
+        exit_choice = input("Do you want to exit the quiz? (yes/no):") #asking the user if they intend to continue the quiz
+        if exit_choice.lower() == "yes":
+            quizapp.exitquiz()
+            break
+        else:
+            print("Continuing to the next quiz...")
+    print("Exiting the quiz application.")
+if __name__ == "__main__":
+    main()  # calling the main function to start the quiz application
