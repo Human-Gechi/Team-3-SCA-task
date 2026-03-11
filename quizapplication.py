@@ -51,7 +51,7 @@ class QuizApp:
         st.session_state[f"user_answer_{index}"] = answer
         return answer, answer == question["answer"]
 
-    def saveuserprogress(self):
+    def save_user_progress(self):
         """Format for saving user data"""
         data = {
             "username": self.username,
