@@ -67,7 +67,7 @@ if st.session_state.get("quiz_started"):
         if st.button("🛑 Stop Quiz"):
             quizapp.score = st.session_state.score
             quizapp.time_taken = time.time() - st.session_state.start_time
-            quizapp.saveuserprogress()
+            quizapp.save_user_progress()
 
             st.info(f"⏹ Quiz exited early.\n\nScore: **{quizapp.score} / {len(quizapp.questions)}**")
             st.info(f"⏱ Time taken: **{quizapp.time_taken:.2f} seconds**")
